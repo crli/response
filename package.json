@@ -1,0 +1,23 @@
+{
+  "name": "responsive",
+  "version": "1.0.0",
+  "description": "PART I：\r 响应式网站的优点：\r 1 减少工作量\r 1）网站，设计，代码，内容都只有一份\r 2）JS,CSS做少量更改\r 2 节省时间\r 3 多个分辨率设备都能正确显示\r 4 搜索优化",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-csso": "^2.0.0",
+    "gulp-filter": "^4.0.0",
+    "gulp-rev": "^7.1.2",
+    "gulp-rev-replace": "^0.4.3",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2"
+  }
+}

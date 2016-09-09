@@ -1,0 +1,14 @@
+*~
+.DS_Store
+
+.idea
+
+node_modules
+dist
+### Sass template
+.sass-cache/
+*.css.map
+
+
+
+
