@@ -14,5 +14,5 @@ PART I：
 设计比较难精确定位和控制
 老版本浏览器的兼容问题
 
-花园新村8号楼2单元401A区
+
 browser-sync start --server "src" --files "src"
